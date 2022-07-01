@@ -1,0 +1,14 @@
+{
+  "name": "03-webserver",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "showByName": "nodemon ./showByName/app.js",
+    "beatles":"nodemon ./Beatles/app.js"
+  }
+}
